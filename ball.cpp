@@ -4,6 +4,7 @@
 #include<math.h>
 #include<string.h>
 
+
 int balls_caught=0,missed_balls=0,level_count=1,points=0;
 int p=0;                // To increment the points based on color
 int d=0;                // For color selection
